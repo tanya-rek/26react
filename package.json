@@ -1,0 +1,20 @@
+{
+  "name": "26react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanya-rek/26react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanya-rek/26react/issues"
+  },
+  "homepage": "https://github.com/tanya-rek/26react#readme"
+}
